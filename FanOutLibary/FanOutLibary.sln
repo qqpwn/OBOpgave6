@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanOutLibary", "FanOutLibary\FanOutLibary.csproj", "{78B3443A-2F5B-41D0-86B1-CEFCF6C939E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave6", "Opgave6\Opgave6.csproj", "{DC0A277C-54D6-449A-AD25-8CD81D9DF141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78B3443A-2F5B-41D0-86B1-CEFCF6C939E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B3443A-2F5B-41D0-86B1-CEFCF6C939E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B3443A-2F5B-41D0-86B1-CEFCF6C939E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B3443A-2F5B-41D0-86B1-CEFCF6C939E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC0A277C-54D6-449A-AD25-8CD81D9DF141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0A277C-54D6-449A-AD25-8CD81D9DF141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0A277C-54D6-449A-AD25-8CD81D9DF141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0A277C-54D6-449A-AD25-8CD81D9DF141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A18B3E6A-16D8-424B-895C-05410A1C75AC}
+	EndGlobalSection
+EndGlobal
